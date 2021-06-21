@@ -1,0 +1,7 @@
+/.vs
+/DotnetCoreRazorWebApp/bin
+/DotnetCoreRazorWebApp/obj
+/DotnetCoreRazorWebApp.Models/obj
+/DotnetCoreRazorWebApp.Models/bin
+/DotnetCoreRazorWebApp.Services/bin
+/DotnetCoreRazorWebApp.Services/obj
